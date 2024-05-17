@@ -1,0 +1,41 @@
+main{
+    background-color: rgba(240, 240, 235, 0.904);
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px;
+    margin: 0px; 
+}
+
+.table-container {
+    margin: 5px;
+    padding: 20px;
+}
+
+.input-Form {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    align-content: center;
+
+}
+
+span {
+    display: block;
+    color: tomato;
+    font-size: x-small;
+  }
+
+.btn-save{
+    display: flex;
+    justify-content: flex-end;
+    padding: 15px
+}
+
+.card-margin {
+    margin: 15px;
+}
